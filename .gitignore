@@ -15,4 +15,4 @@
 /log/*.log
 /tmp
 
-/config/initializers/environment_variables.rb
+/config/initializers/a_environment_variables.rb
